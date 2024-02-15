@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UNSupervision Example</string>
+    <string name="btn_copy">Copy</string>
+    <string name="btn_close">Close</string>
+</resources>

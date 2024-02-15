@@ -1,0 +1,37 @@
+
+r
+Bapp/src/main/java/org/teslasoft/core/unsupervision/MainActivity.kt,7\3\73e940029e89e0637d5c2a5bcce86fe86e39b374
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+I
+gradle/libs.versions.toml,d\7\d7595319a0658be6f1ed500ad590d42e4b28bc4f
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+@
+local.properties,0\7\0712df971a99ac4d2fccb8e0fb19f377f3374cca
+C
+settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+m
+=app/src/main/java/org/teslasoft/core/unsupervision/CoreApp.kt,b\d\bdf8520dc640f05cce01d5e149abcb01ef3532e3
+d
+4app/src/main/java/org/teslasoft/core/CrashHandler.kt,5\e\5e3eef9496e0832bace4c68cd0159527f45f3c66
+r
+Bapp/src/main/java/org/teslasoft/core/api/network/RequestNetwork.kt,4\8\48329a942751175534150aba44a6e523eb866884
+|
+Lapp/src/main/java/org/teslasoft/core/api/network/RequestNetworkController.kt,5\6\566e0d3c4c02135e084266864c7efe4df4b045a0
+l
+<app/src/main/java/org/teslasoft/core/unsupervision/Config.kt,c\a\ca150341b017eb0e944fcafd89eb476e36397e5c
+q
+Aapp/src/main/java/org/teslasoft/core/unsupervision/util/Logger.kt,e\a\ea4eeae8a508ae76889e1ef9736aa9da9c503ea1
+r
+Bapp/src/main/java/org/teslasoft/core/unsupervision/util/Updater.kt,b\0\b05105b5c9004697bf43e3c6ae50781205137e73
+v
+Fapp/src/main/java/org/teslasoft/core/unsupervision/util/UpdateStore.kt,1\d\1dfd30922f8b54a02b8439f4c178780861335943
+x
+Happ/src/main/java/org/teslasoft/core/unsupervision/server/LocalServer.kt,9\b\9b2e0e0991e7b4a0241d186f80217a95340895d8
+o
+?app/src/main/java/org/teslasoft/core/unsupervision/Constants.kt,3\0\306bd8da0b210897e9022247c3b25e041d721b18
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

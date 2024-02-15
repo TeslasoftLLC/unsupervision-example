@@ -1,0 +1,22 @@
+{
+    "version": "1.0",
+    "timestamp": 0,
+    "updateId": "0",
+    "changeMap": [
+        {
+            "fileName": "index.html",
+            "path": "/",
+            "updateMethod": "add",
+            "version": "1.0",
+            "sha256": ""
+        },
+        {
+            "fileName": "favicon.ico",
+            "path": "/",
+            "updateMethod": "add",
+            "version": "1.0",
+            "sha256": ""
+        }
+    ],
+    "fileList": ["/index.html", "/favicon.ico"]
+}
